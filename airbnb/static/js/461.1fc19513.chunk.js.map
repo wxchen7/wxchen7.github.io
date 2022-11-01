@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/461.1fc19513.chunk.js","mappings":"kIAEMA,GAASC,EAAAA,EAAAA,OAAK,kBAClB,mCADkB,IAMpB,W","sources":["views/detail/index.js"],"sourcesContent":["import React, { memo } from 'react';\n\nconst Detail = memo(() => (\n  <div>\n    Detail\n  </div>\n));\n\nexport default Detail;\n"],"names":["Detail","memo"],"sourceRoot":""}
